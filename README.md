@@ -5,19 +5,19 @@ Bu repo [Kodluyoruz](http://kodluyoruz.org) Front-End Eğitiminde oluşturduğum
 
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
 
-'
-https://github.com/ilknur-nurioglu/kodluyoruzilkrepo.git
-'
+
+> https://github.com/ilknur-nurioglu/kodluyoruzilkrepo.git
+
 # Usage
 
 Projeyi cloneladıktan sonra Visual Studio Code Programında Açınız.
 
 Linux için:
 
-'
-cd kodluyoruzilkrepo
-code . 
-'
+
+> cd kodluyoruzilkrepo
+> code . 
+
  # Contributing
 
  
